@@ -1,0 +1,15 @@
+attrs
+black
+coverage
+matplotlib
+mypy
+numpy
+nptyping
+pandas
+pytest>=4.4.0
+pytest-cov
+pytest-regressions
+scipy
+tox
+-r requirements-flake8.txt
+-e .
